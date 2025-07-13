@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nhs-pycom.github.io/opensource-health-statistics/pages/github_api_call.html</loc>
-    <lastmod>2025-07-06T01:26:44.170Z</lastmod>
+    <lastmod>2025-07-13T01:38:16.291Z</lastmod>
   </url>
   <url>
     <loc>https://nhs-pycom.github.io/opensource-health-statistics/index.html</loc>
-    <lastmod>2025-07-06T01:26:44.169Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nhs-pycom.github.io/opensource-health-statistics/topics.html</loc>
-    <lastmod>2025-07-06T01:26:44.170Z</lastmod>
+    <lastmod>2025-07-13T01:38:16.290Z</lastmod>
   </url>
   <url>
     <loc>https://nhs-pycom.github.io/opensource-health-statistics/about.html</loc>
-    <lastmod>2025-07-06T01:26:44.169Z</lastmod>
+    <lastmod>2025-07-13T01:38:16.290Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nhs-pycom.github.io/opensource-health-statistics/topics.html</loc>
+    <lastmod>2025-07-13T01:38:16.291Z</lastmod>
   </url>
 </urlset>
